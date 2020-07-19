@@ -1,2 +1,2 @@
 # Aprendendo GitHub
- Repositório dos Projetos em construção
+ Repositório do aprendizado com o CURSOEMVIDEO do GUANABARA sobre GITHUB.
